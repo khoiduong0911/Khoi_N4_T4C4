@@ -1,5 +1,9 @@
-# 💫 Xin chào, Tôi là Dương Hoàng Anh Khôi 
-🌱 Tôi học tại HUFLIT ( Ho Chi Minh City University of Foreign Languages – Information Technology) 
+# 💫 Hello there, My full name is Dương Hoàng Anh Khôi 
+⚡ Fun fact: You can call my Khoai
+🔭 I'm learning at HUFLIT ( Ho Chi Minh City University of Foreign Languages – Information Technology) 
+🌱 I'm native to Quy Nhon city
+
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100021786217615&locale=vi_VN) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_dhakhoi.0911/) 
