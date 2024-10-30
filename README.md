@@ -1,4 +1,4 @@
-# 💫 Hello there, My full name is Dương Hoàng Anh Khôi 
+# 💫 Hello there, My full name is Duong Hoang Anh Khoi
 ⚡ Fun fact: You can call my Khoai
 🔭 I'm learning at HUFLIT ( Ho Chi Minh City University of Foreign Languages – Information Technology) 
 🌱 I'm native to Quy Nhon city
